@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "VAMOLA！キョウリュウジャー",
+  "base_artist": "鎌田章吾",
+  "createdAt": "2026-01-09T07:52:38.224338Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VAMOLA! キョウリュウジャー",
+      "artist": "鎌田章吾",
+      "has_synced": true,
+      "path": "select/01_VAMOLA!_キョウリュウジャー_鎌田章吾.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VAMOLA!キョウリュウジャー(Samba Mix)",
+      "artist": "鎌田章吾",
+      "has_synced": false,
+      "path": "select/02_VAMOLA!キョウリュウジャー(Samba_Mix)_鎌田章吾.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VAMOLA! キョウリュウジャー(Sanba Mix)",
+      "artist": "鎌田章吾",
+      "has_synced": true,
+      "path": "select/03_VAMOLA!_キョウリュウジャー(Sanba_Mix)_鎌田章吾.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VAMOLA! キョウリュウジャー (オリジナル・カラオケ)",
+      "artist": "Showgo Kamada",
+      "has_synced": true,
+      "path": "select/04_VAMOLA!_キョウリュウジャー_(オリジナル・カラオケ)_Showgo_Kamada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VAMOLA!キョウリュウジャー ダイノホープver. (movie version)",
+      "artist": "鎌田章吾",
+      "has_synced": false,
+      "path": "select/05_VAMOLA!キョウリュウジャー_ダイノホープver._(movie_version)_鎌田章吾.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VAMOLA！キョウリュウジャー",
+      "artist": "鎌田章吾",
+      "has_synced": false,
+      "path": "select/06_VAMOLA!キョウリュウジャー_鎌田章吾.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "VAMOLA! キョウリュウジャー (Samba Mix)",
+      "artist": "鎌田章吾",
+      "has_synced": false,
+      "path": "select/07_VAMOLA!_キョウリュウジャー_(Samba_Mix)_鎌田章吾.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "VAMOLA! キョウリュウジャー (TVサイズ・ナレーション入り2)",
+      "artist": "Zyuden Sentai Kyoryuger",
+      "has_synced": false,
+      "path": "select/08_VAMOLA!_キョウリュウジャー_(TVサイズ・ナレーション入り2)_Zyuden_Sentai_Kyoryuger.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "VAMOLA! キョウリュウジャー (2114年ver.)",
+      "artist": "高取ヒデアキ",
+      "has_synced": false,
+      "path": "select/09_VAMOLA!_キョウリュウジャー_(2114年ver.)_高取ヒデアキ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VAMOLA!キョウリュウジャー",
+      "artist": "鎌田章吾",
+      "has_synced": false,
+      "path": "select/pl_01_VAMOLA!キョウリュウジャー_鎌田章吾.txt"
+    }
+  ]
+}
